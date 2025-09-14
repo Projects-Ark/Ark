@@ -1039,9 +1039,6 @@ section,
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-.contact {
-  background-color: #e2e2e2; 
-}
 
 .contact .info-wrap {
   background-color: var(--surface-color);
